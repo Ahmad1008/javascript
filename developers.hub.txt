@@ -1,0 +1,23 @@
+App ID
+320325376138567
+App Secret
+bdd730b7f08922b633e8d692f0f59a47
+
+keyhash: RU3WA8aES5kI4cwUCgmXJVXCrpU=
+
+keytool -genkey -v -keystore c:\Users\dell\key.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias key
+
+      
+keytool -exportcert -alias androiddebugkey -keystore "C:\dell\USERNAME\.android\debug.keystore" | "PATH_TO_OPENSSL_LIBRARY\bin\openssl" sha1 -binary | "PATH_TO_OPENSSL_LIBRARY\bin\openssl" base64
+
+keytool -genkey -v -keystore c:\Users\dell\key.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias key
+
+      
+
+keytool -exportcert -alias key -keystore c:\Users\dell\key.jks | c:\Users\dell\openssl\bin\openssl.exe sha1 -binary | c:\Users\dell\openssl\bin\openssl.exe base64
+
+keytool -list -v -alias androiddebugkey -keystore C:\Users\dell\.android\debug.keystore  (Password: android)
+facebook access token(EAAEjVZABB3UcBAAZBZCwosTlJxZA33qtjYwgJ84LAvbekKPdsOz4kZCtzwe8h53MIPHUoBy4EJMtJriTyA58BRPduBpVOZCzzGvW2tfSvrEoZBOfYexMGMaOXQS3dEvgF4Wjt1PMlRJVZAihWjnrZAdOmaWaKC4qnE5jJ9WcDEZBqLhlo2gjZBaIn1YSEuyUC0s6khlOt76I4fZBNROopNg9mv6iyuFL9rMnyfH9CqlHWW8QRgrwDlSCh2Sb)
+Link to your Privacy Policy
+Copy the link to your Privacy Policy page. We host it for free.
+(https://www.freeprivacypolicy.com/live/dd97884b-7784-4d60-80ef-9451541861cd)
