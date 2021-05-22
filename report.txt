@@ -1,0 +1,39 @@
+A2madahmad21A16ahmad1233Aahmad217AName is: ahmad/nAge is: 21/nClass is is: 12/nSection  is: A/nName is: ahmad
+Age is: 21
+Class is is: 13
+Section  is: A
+
+Name is: ahmad
+Class is is: 16
+Section  is: A
+Age is: 21
+
+Name is: ahmad
+, Age is: 21
+,
+Class is is: 16
+, Section  is: A
+
+Name is: 
+ Age is: 
+
+Class is is: 
+ Section  is: 
+
+Name is: 
+ Age is: 14
+
+Class is is: 17
+ Section  is: A
+
+Name is: ali
+ Age is: 20
+
+Class is is: 15
+ Section  is: A
+
+Name is: umer
+ Age is: 25
+
+Class is : 15
+ Section  is: a
