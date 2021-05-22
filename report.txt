@@ -37,3 +37,39 @@ Name is: umer
 
 Class is : 15
  Section  is: a
+
+Name is: ahmad
+ Age is: Raza
+
+Class is : 13
+ Section  is: A
+
+Name is: ahmad
+ Age is: 21
+
+Class is : 16
+ Section  is: A
+
+Name is: ahmad
+ Age is: 21
+
+Class is : 19
+ Section  is: A
+
+Name is: ahmad
+ Age is: 17
+
+Class is : 13
+ Section  is: A
+
+Name is: ahmad
+ Age is: 21
+
+Class is : 16
+ Section  is: A
+
+Name is: taha
+ Age is: 23
+
+Class is : 19
+ Section  is: W
